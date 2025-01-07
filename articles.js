@@ -1,6 +1,12 @@
 // Sample articles array with 4 articles on random topics
 const articles = [
     {
+        title:"ISRO's Life in Space ExperimentLife Sprouts in Space: ISRO's Breakthrough with Cowpea Seeds",
+        image: "https://images.indianexpress.com/2025/01/pea-ISRO-4cols.jpg?w=640",
+        description: "ISRO reported a breakthrough in space farming as cowpea seeds germinated under microgravity. This experiment demonstrates the possibility of growing food in space, supporting future long-duration missions. It’s a significant step toward creating sustainable space habitats and advancing humanity’s exploration of the Moon, Mars, and beyond.",
+        fullArticle: "ISRO recently announced a groundbreaking achievement in space science: cowpea seeds successfully germinated under microgravity conditions. This experiment, part of ISRO’s life in space research, demonstrates the potential for growing food in space, a critical step for long-term human missions. Conducted aboard a spaceflight simulation, the study tested the seeds' ability to sprout and adapt to the absence of gravity. Scientists observed healthy root and shoot growth, highlighting the viability of cultivating crops in extraterrestrial environments. This milestone has significant implications for sustainable food production during space missions to the Moon, Mars, and beyond. ISRO’s success brings humanity closer to achieving self-sufficient space habitats, marking a new era in space exploration."
+    },
+    {
         title:"South Korean President Faces Impeachment and Arrest",
         image: "https://c.ndtvimg.com/2024-12/lm4muqug_yoon-suk-yeol-afp_625x300_29_December_24.jpeg?im=FeatureCrop,algorithm=dnn,width=773,height=435",
         description: "South Korea’s president faces impeachment amid corruption allegations, triggering public protests and political turmoil. Lawmakers pursue legal action, while citizens demand transparency. The unfolding crisis risks destabilizing the country and damaging its international reputation.",
