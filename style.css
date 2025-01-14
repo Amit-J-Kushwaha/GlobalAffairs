@@ -57,7 +57,8 @@ margin-top:3%;
     filter: drop-shadow(5px 5px 5px gray);
 }
 .top_name{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+margin-right: 300px;
     filter: drop-shadow(5px 5px 5px gray);
     font-size: 71px;
     padding-top: 20px;
